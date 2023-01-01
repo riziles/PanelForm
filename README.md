@@ -18,5 +18,7 @@ What's your name?: _______
 
 becomes:
 
+https://riziles.github.io/PanelForm/panel_form.html
+
 
 
