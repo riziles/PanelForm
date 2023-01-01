@@ -4,7 +4,7 @@ Just a quick tool to generate a Netlify form from a YAML doc using Holoviz Panel
 
 ## Input
 
-(you can also use `[ ]` instead of `x `, which is not valid YAML; parser will replace):
+(you can also use `- [ ] ` instead of `- x `, but it's not valid YAML; parser will replace):
 
 ```YAML
 What is the capital of Djibouti?:
