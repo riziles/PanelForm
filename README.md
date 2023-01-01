@@ -1,6 +1,6 @@
 # PanelForm
 
-Just a quick tool to generate a HTML form from a YAML doc using Holoviz Panel https://github.com/holoviz/panel.
+Just a quick tool to generate a Netlify form from a YAML doc using Holoviz Panel https://github.com/holoviz/panel.
 
 ## Input
 
